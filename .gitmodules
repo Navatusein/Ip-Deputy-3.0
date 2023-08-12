@@ -1,0 +1,9 @@
+[submodule "Ip-Deputy-3.0-Backend"]
+	path = Ip-Deputy-3.0-Backend
+	url = https://github.com/Navatusein/Ip-Deputy-3.0-Backend.git
+[submodule "Ip-Deputy-3.0-Frontend"]
+	path = Ip-Deputy-3.0-Frontend
+	url = https://github.com/Navatusein/Ip-Deputy-3.0-Frontend.git
+[submodule "Ip-Deputy-3.0-Bot"]
+	path = Ip-Deputy-3.0-Bot
+	url = https://github.com/Navatusein/Ip-Deputy-3.0-Bot.git
